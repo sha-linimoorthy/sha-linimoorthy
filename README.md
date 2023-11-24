@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Remedico**
 
-💡**Key Features**
+  💡**Key Features**
 
 AI-Driven Diagnostics: Leveraging advanced algorithms for accurate medical assessments.
 
