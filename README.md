@@ -1,4 +1,5 @@
 <h1 align="center">Hello there👋, I'm Shalini Moorthy</h1>
+
 <h3 align="center">Embarking on a journey as a devoted enthusiast to Artificial Intelligence, Data Science, and Full Stack Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-linimoorthy&label=Profile%20views&color=0e75b6&style=flat" alt="sha-linimoorthy" /> </p>
@@ -102,3 +103,5 @@ Personalized Treatment Plans: Tailored medical advice based on AI analysis.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sha-linimoorthy&" alt="sha-linimoorthy" /></p>
 
+
+![the-powerpuff-girls-blossom](https://github.com/sha-linimoorthy/sha-linimoorthy/assets/109151905/46c0657b-71c3-4417-9c1d-80fc2fe27d26)
