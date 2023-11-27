@@ -20,6 +20,9 @@ Personalized Treatment Plans: Tailored medical advice based on AI analysis.
 
 - 👯 I’m looking to collaborate on **AWS Amplify**
 
+- 🕸️ [Checkout my universe](https://sha-linimoorthy.github.io/)
+
+
 - 👨‍💻 All of my projects are available at [https://github.com/sha-linimoorthy](https://github.com/sha-linimoorthy)
 
 - 📫 How to reach me **shalini.moorthyai@gmail.com**
