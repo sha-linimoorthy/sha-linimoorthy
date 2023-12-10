@@ -1,4 +1,4 @@
-<h1 align="center">Hello there👋, I'm Shalini Moorthy</h1>
+<h1 align="center">Hello to the rock+star=>rockstar here😎, I'm Shalini Moorthy</h1>
 
 <h3 align="center">Embarking on a journey as a devoted enthusiast to Artificial Intelligence, Data Science, and Full Stack Development.</h3>
 
